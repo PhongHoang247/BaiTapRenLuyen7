@@ -29,7 +29,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
-            android:layout_weight=""
             app:srcCompat="@drawable/call" />
 
         <ImageView
@@ -37,14 +36,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="20dp"
-            android:layout_weight=""
             app:srcCompat="@drawable/sms" />
 
         <ImageView
             android:id="@+id/imgDetail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight=""
             app:srcCompat="@drawable/detail" />
     </LinearLayout>
 
